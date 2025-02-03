@@ -1,2 +1,2 @@
-# Calorie-tracker
-calorie tracker for our daily routine
+# Foodie-calorie-finder
+ Allows you to find colries in your food
